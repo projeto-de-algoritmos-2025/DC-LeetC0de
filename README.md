@@ -30,7 +30,7 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | Exercício | Enunciado | Resolução | Dificuldade | Autor da Resolução |
 | :--: | -- | :--: | -- | -- |
 | 1 | [148. Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=merge-sort) | [LC148.py](./Exercício%20148/LC148.py) | Média | Ana Luiza Hoffmann Ferreira |
-| 2 | Em construção! | | Difícil | Ana Luiza Hoffmann Ferreira |
+| 2 | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=problem-list-v2&envId=merge-sort) | [LC2179.py](./Exercício%202179/LC2179.py) | Difícil | Ana Luiza Hoffmann Ferreira |
 | 3 | Em construção! | | Média | Edson Gomes da Silva Filho |
 | 4 | Em construção! | | Difícil | Edson Gomes da Silva Filho |
 
