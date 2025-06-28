@@ -4,7 +4,7 @@
 
 **Conteúdo da Disciplina**: Dividir e Conquistar
 
-**Link para apresentação**: 
+**Link para apresentação**: [Apresentação Dividir e Conquistar - One Drive](https://unbbr-my.sharepoint.com/:v:/g/personal/221034982_aluno_unb_br/ETBhf8bTLeRKqrBi3adj8JcBMd2VVBOcmBfGg_9LHKwE_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gdXGxe)
 
 ## Alunos
 
