@@ -31,8 +31,8 @@ A plataforma disponibiliza problemas classificados por dificuldade (fácil, méd
 | :--: | -- | :--: | -- | -- |
 | 1 | [148. Sort List](https://leetcode.com/problems/sort-list/description/?envType=problem-list-v2&envId=merge-sort) | [LC148.py](./Exercício%20148/LC148.py) | Média | Ana Luiza Hoffmann Ferreira |
 | 2 | [2179. Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/?envType=problem-list-v2&envId=merge-sort) | [LC2179.py](./Exercício%202179/LC2179.py) | Difícil | Ana Luiza Hoffmann Ferreira |
-| 3 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array?envType=problem-list-v2&envId=merge-sort) | [LC912.py](./Exercício%20148/LC148.py) | Média | Edson Gomes da Silva Filho |
-| 4 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs?envType=problem-list-v2&envId=merge-sort) | [LC493.py](./Exercício%20148/LC148.py) | Difícil | Edson Gomes da Silva Filho |
+| 3 | [912. Sort an Array](https://leetcode.com/problems/sort-an-array?envType=problem-list-v2&envId=merge-sort) | [LC912.py](./Exercício%20912/LC912.py) | Média | Edson Gomes da Silva Filho |
+| 4 | [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs?envType=problem-list-v2&envId=merge-sort) | [LC493.py](./Exercício%20493/LC493.py) | Difícil | Edson Gomes da Silva Filho |
 
 ## Execução dos códigos na plataforma LeetCode
 
